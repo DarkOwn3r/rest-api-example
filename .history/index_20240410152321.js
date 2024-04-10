@@ -1,0 +1,1 @@
+const { checkConnection, syncModels } = require("./db/index.js");
